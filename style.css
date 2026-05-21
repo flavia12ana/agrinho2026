@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(12, 148, 23);
+}
+
+header{
+    background-color: rgb(36, 129, 184);
+}
+
+#campo {
+    width:400px;
+}
+
+.paragrafo{
+    text-align: center;
+    padding: 50px;
+    font-size: 20px;
+}
